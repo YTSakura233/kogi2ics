@@ -23,7 +23,7 @@ PERIOD_SCHEDULE = {
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="获取京都情报大学院大学的课程表并转换为icf格式"
+        description="获取KCG.EDU(京都コンピュータ学院、京都情报大学院大学)的课表并转换为ics格式"
     )
     parser.add_argument(
         "-c",
