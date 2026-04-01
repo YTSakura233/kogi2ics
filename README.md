@@ -1,10 +1,10 @@
-﻿# getkogi
+﻿# kogi2ics
 
 [中文](#中文) | [日本語](#日本語) | [English](#english)
 
 ## 中文
 
-`getkogi` 是一个把 KCG.EDU(京都コンピュータ学院、京都情报大学院大学) 的课程数据导出为 `.ics` 日历文件的小工具。
+`kogi2ics` 是一个把 KCG.EDU(京都コンピュータ学院、京都情报大学院大学) 的课程数据导出为 `.ics` 日历文件的小工具。
 
 这个项目主要围绕两个 Python 文件：
 
@@ -98,7 +98,7 @@ Android 是否能直接导入 `.ics`，取决于你使用的日历应用。
 
 ## 日本語
 
-`getkogi` は、KCGI の授業データを `.ics` カレンダーファイルとして書き出すための小さなツールです。
+`kogi2ics` は、KCG.EDU(京都コンピュータ学院・京都情報大学院大学) の授業データを `.ics` カレンダーファイルとして書き出すための小さなツールです。
 
 このプロジェクトは主に次の 2 つの Python ファイルで構成されています。
 
@@ -192,7 +192,7 @@ Android で `.ics` を直接取り込めるかどうかは、使用するカレ�
 
 ## English
 
-`getkogi` is a small tool for exporting KCGI class data as `.ics` calendar files.
+`kogi2ics` is a small tool for exporting KCG.EDU(Kyoto Computer Gakuin, The Kyoto College of Graduate Studies for Informatics) class data as `.ics` calendar files.
 
 This project is centered around two Python files:
 
