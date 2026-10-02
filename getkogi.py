@@ -77,7 +77,7 @@ def main():
 
     year = datetime.date.today().year
     D1 = f"{year}-04-01" if args.term == 1 else f"{year}-10-01"
-    D2 = f"{year}-08-30" if args.term == 1 else f"{year+1}-03-31"
+    D2 = f"{year}-09-30" if args.term == 1 else f"{year+1}-03-31"
 
     getkogi(D1, D2, args.x, args.cookie)
 
